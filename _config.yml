@@ -1,0 +1,79 @@
+---
+booktitle: Proceedings of The 24th International Conference on Artificial Intelligence
+  and Statistics
+shortname: AISTATS
+volume: 130
+year: '2021'
+start: 2021-04-13
+end: 2021-04-15
+published: 2021-03-18
+url: http://proceedings.mlr.press
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: AISTATS-2021
+month: 0
+cycles: false
+bibtex_editor: Banerjee, Arindam and Fukumizu, Kenji
+editor:
+- given: Arindam
+  family: Banerjee
+- given: Kenji
+  family: Fukumizu
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of The 24th International Conference on Artificial Intelligence and Statistics
+    Held in Virtual on 13-15 April 2021
+
+  Published as Volume 130 by the Proceedings of Machine Learning Research on 18 March 2021.
+
+  Volume Edited by:
+    Arindam Banerjee
+    Kenji Fukumizu
+
+  Series Editors:
+    Neil D. Lawrence
+    Mark Reid
+date_str: 13--15 Apr
+author:
+  name: PMLR
+baseurl: "/v130"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v130
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+email: ''
+conference:
+  name: International Conference on Artificial Intelligence and Statistics
+  url: 
+  location: Virtual
+  dates:
+  - 2021-04-13
+  - 2021-04-14
+  - 2021-04-15
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v130/aistats21.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v130/aistats21.bib
