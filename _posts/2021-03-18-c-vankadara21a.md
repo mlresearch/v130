@@ -1,0 +1,57 @@
+---
+title: " Recovery Guarantees for Kernel-based Clustering under Non-parametric Mixture
+  Models "
+abstract: " Despite the ubiquity of kernel-based clustering, surprisingly few statistical
+  guarantees exist beyond settings that consider strong structural assumptions on
+  the data generation process. In this work, we take a step towards bridging this
+  gap by studying the statistical performance of kernel-based clustering algorithms
+  under non-parametric mixture models. We provide necessary and sufficient separability
+  conditions under which these algorithms can consistently recover the underlying
+  true clustering. Our analysis provides guarantees for kernel clustering approaches
+  without structural assumptions on the form of the component distributions. Additionally,
+  we establish a key equivalence between kernel-based data-clustering and kernel density-based
+  clustering. This enables us to provide consistency guarantees for kernel-based estimators
+  of non-parametric mixture models. Along with theoretical implications, this connection
+  could have practical implications, including in the systematic choice of the bandwidth
+  of the Gaussian kernel in the context of clustering. "
+layout: inproceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: c-vankadara21a
+month: 0
+tex_title: " Recovery Guarantees for Kernel-based Clustering under Non-parametric
+  Mixture Models "
+firstpage: 3817
+lastpage: 3825
+page: 3817-3825
+order: 3817
+cycles: false
+bibtex_author: C Vankadara, Leena and Bordt, Sebastian and von Luxburg, Ulrike and
+  Ghoshdastidar, Debarghya
+author:
+- given: Leena
+  family: C Vankadara
+- given: Sebastian
+  family: Bordt
+- given: Ulrike
+  family: Luxburg
+- given: Debarghya
+  family: Ghoshdastidar
+date: 2021-03-18
+address: 
+container-title: Proceedings of The 24th International Conference on Artificial Intelligence
+  and Statistics
+volume: '130'
+genre: inproceedings
+issued:
+  date-parts:
+  - 2021
+  - 3
+  - 18
+pdf: http://proceedings.mlr.press/v130/c-vankadara21a/c-vankadara21a.pdf
+extras:
+- label: Supplementary PDF
+  link: http://proceedings.mlr.press/v130/c-vankadara21a/c-vankadara21a-supp.pdf
+# Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
+---
