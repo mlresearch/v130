@@ -29,12 +29,13 @@ bibtex_author: de la Concha Duarte, Alejandro and Vayatis, Nicolas and Kalogerat
 author:
 - given: Alejandro
   family: Concha Duarte
+  prefix: de la
 - given: Nicolas
   family: Vayatis
 - given: Argyris
   family: Kalogeratos
 date: 2021-03-18
-address: 
+address:
 container-title: Proceedings of The 24th International Conference on Artificial Intelligence
   and Statistics
 volume: '130'

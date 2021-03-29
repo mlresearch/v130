@@ -44,8 +44,9 @@ author:
   family: Moore
 - given: Marcel
   family: Gerven
+  prefix: van
 date: 2021-03-18
-address: 
+address:
 container-title: Proceedings of The 24th International Conference on Artificial Intelligence
   and Statistics
 volume: '130'

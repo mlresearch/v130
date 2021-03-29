@@ -3,7 +3,7 @@ title: " Regularized ERM on random subspaces "
 abstract: " We study a natural extension of classical empirical risk minimization,
   where the hypothesis space is a random subspace of a given space. In particular,
   we consider possibly data dependent subspaces spanned by a random subset of the
-  data, recovering as a special case Nystr{ö}m approaches for kernel methods. Considering
+  data, recovering as a special case Nyström approaches for kernel methods. Considering
   random subspaces naturally leads to computational savings, but the question is whether
   the corresponding learning accuracy is degraded. These statistical-computational
   tradeoffs have been recently explored for the least squares loss and self-concordant
@@ -38,7 +38,7 @@ author:
 - given: Lorenzo
   family: Rosasco
 date: 2021-03-18
-address: 
+address:
 container-title: Proceedings of The 24th International Conference on Artificial Intelligence
   and Statistics
 volume: '130'

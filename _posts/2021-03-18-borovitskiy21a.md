@@ -5,12 +5,12 @@ abstract: " Gaussian processes are a versatile framework for learning unknown fu
   Although many different Gaussian process models are readily available when the input
   space is Euclidean, the choice is much more limited for Gaussian processes whose
   input space is an undirected graph. In this work, we leverage the stochastic partial
-  differential equation characterization of Mat{é}rn Gaussian processes—a widely-used
+  differential equation characterization of Matérn Gaussian processes—a widely-used
   model class in the Euclidean setting—to study their analog for undirected graphs.
   We show that the resulting Gaussian processes inherit various attractive properties
   of their Euclidean and Riemannian analogs and provide techniques that allow them
   to be trained using standard methods, such as inducing points. This enables graph
-  Mat{é}rn Gaussian processes to be employed in mini-batch and non-conjugate settings,
+  Matérn Gaussian processes to be employed in mini-batch and non-conjugate settings,
   thereby making them more accessible to practitioners and easier to deploy within
   larger learning frameworks. "
 layout: inproceedings
@@ -41,7 +41,7 @@ author:
 - given: Nicolas
   family: Durrande
 date: 2021-03-18
-address: 
+address:
 container-title: Proceedings of The 24th International Conference on Artificial Intelligence
   and Statistics
 volume: '130'

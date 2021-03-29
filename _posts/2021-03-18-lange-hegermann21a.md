@@ -5,7 +5,7 @@ abstract: " One goal in Bayesian machine learning is to encode prior knowledge i
   systems of linear partial differential equations together with their boundary conditions.
   We construct multi-output Gaussian process priors with realizations in the solution
   set of such systems, in particular only such solutions can be represented by Gaussian
-  process regression. The construction is fully algorithmic via Gr{ö}bner bases and
+  process regression. The construction is fully algorithmic via Gröbner bases and
   it does not employ any approximation. It builds these priors combining two parametrizations
   via a pullback: the first parametrizes the solutions for the system of differential
   equations and the second parametrizes all functions adhering to the boundary conditions. "
@@ -26,7 +26,7 @@ author:
 - given: Markus
   family: Lange-Hegermann
 date: 2021-03-18
-address: 
+address:
 container-title: Proceedings of The 24th International Conference on Artificial Intelligence
   and Statistics
 volume: '130'
