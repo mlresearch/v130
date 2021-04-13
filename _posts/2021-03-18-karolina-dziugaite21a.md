@@ -4,7 +4,7 @@ abstract: " The dominant term in PAC-Bayes bounds is often the Kullback–Leible
   between the posterior and prior. For so-called linear PAC-Bayes risk bounds based
   on the empirical risk of a fixed posterior kernel, it is possible to minimize the
   expected value of the bound by choosing the prior to be the expected posterior,
-  which we call the \\emph{oracle} prior on the account that it is distribution dependent.
+  which we call the <em>oracle</em> prior on the account that it is distribution dependent.
   In this work, we show that the bound based on the oracle prior can be suboptimal:
   In some cases, a stronger bound is obtained by using a data-dependent oracle prior,
   i.e., a conditional expectation of the posterior, given a subset of the training
