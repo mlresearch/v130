@@ -26,11 +26,11 @@ lastpage: 612
 page: 604-612
 order: 604
 cycles: false
-bibtex_author: Karolina Dziugaite, Gintare and Hsu, Kyle and Gharbieh, Waseem and
+bibtex_author: Dziugaite, Gintare Karolina and Hsu, Kyle and Gharbieh, Waseem and
   Arpino, Gabriel and Roy, Daniel
 author:
-- given: Gintare
-  family: Karolina Dziugaite
+- given: Gintare Karolina 
+  family: Dziugaite
 - given: Kyle
   family: Hsu
 - given: Waseem
