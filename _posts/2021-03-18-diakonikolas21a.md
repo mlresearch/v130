@@ -33,7 +33,7 @@ author:
   family: Diakonikolas
 - given: Constantinos
   family: Daskalakis
-- given: Michael
+- given: Michael I.
   family: Jordan
 date: 2021-03-18
 address:
