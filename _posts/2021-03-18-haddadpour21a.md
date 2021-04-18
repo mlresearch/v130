@@ -28,7 +28,7 @@ lastpage: 2358
 page: 2350-2358
 order: 2350
 cycles: false
-bibtex_author: Haddadpour, Farzin and Mahdi Kamani, Mohammad and Mokhtari, Aryan and
+bibtex_author: Haddadpour, Farzin and Kamani, Mohammad Mahdi and Mokhtari, Aryan and
   Mahdavi, Mehrdad
 author:
 - given: Farzin
