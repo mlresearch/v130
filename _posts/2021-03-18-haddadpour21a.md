@@ -33,8 +33,8 @@ bibtex_author: Haddadpour, Farzin and Mahdi Kamani, Mohammad and Mokhtari, Aryan
 author:
 - given: Farzin
   family: Haddadpour
-- given: Mohammad
-  family: Mahdi Kamani
+- given: Mohammad Mahdi
+  family: Kamani
 - given: Aryan
   family: Mokhtari
 - given: Mehrdad
