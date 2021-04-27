@@ -23,11 +23,11 @@ lastpage: 3618
 page: 3610-3618
 order: 3610
 cycles: false
-bibtex_author: Bas Serrano, Joan and Curi, Sebastian and Krause, Andreas and Neu,
+bibtex_author: Bas-Serrano, Joan and Curi, Sebastian and Krause, Andreas and Neu,
   Gergely
 author:
 - given: Joan
-  family: Bas Serrano
+  family: Bas-Serrano
 - given: Sebastian
   family: Curi
 - given: Andreas
