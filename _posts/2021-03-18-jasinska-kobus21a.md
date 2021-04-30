@@ -19,13 +19,13 @@ lastpage: 1809
 page: 1801-1809
 order: 1801
 cycles: false
-bibtex_author: Wydmuch, Marek and Jasinska-Kobus, Kalina and Thiruvenkatachari, Devanathan
+bibtex_author: Jasinska-Kobus, Kalina and Wydmuch, Marek and Thiruvenkatachari, Devanathan
   and Dembczynski, Krzysztof
 author:
-- given: Marek
-  family: Wydmuch
 - given: Kalina
   family: Jasinska-Kobus
+- given: Marek
+  family: Wydmuch
 - given: Devanathan
   family: Thiruvenkatachari
 - given: Krzysztof
@@ -41,9 +41,9 @@ issued:
   - 2021
   - 3
   - 18
-pdf: http://proceedings.mlr.press/v130/wydmuch21a/wydmuch21a.pdf
+pdf: http://proceedings.mlr.press/v130/jasinska-kobus21a/jasinska-kobus21a.pdf
 extras:
 - label: Supplementary PDF
-  link: http://proceedings.mlr.press/v130/wydmuch21a/wydmuch21a-supp.pdf
+  link: http://proceedings.mlr.press/v130/jasinska-kobus21a/jasinska-kobus21a-supp.pdf
 # Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---
