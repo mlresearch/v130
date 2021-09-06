@@ -23,14 +23,14 @@ lastpage: 1872
 page: 1864-1872
 order: 1864
 cycles: false
-bibtex_author: Laszkiewicz, Mike and Lederer, Johannes and Fischer, Asja
+bibtex_author: Laszkiewicz, Mike and Fischer, Asja and Lederer, Johannes
 author:
 - given: Mike
   family: Laszkiewicz
-- given: Johannes
-  family: Lederer
 - given: Asja
   family: Fischer
+- given: Johannes
+  family: Lederer
 date: 2021-03-18
 address:
 container-title: Proceedings of The 24th International Conference on Artificial Intelligence
