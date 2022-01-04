@@ -1,6 +1,6 @@
 ---
 title: On the Role of Data in PAC-Bayes Bounds
-abstract: " The dominant term in PAC-Bayes bounds is often the Kullback-Leibler divergence
+abstract: "The dominant term in PAC-Bayes bounds is often the Kullback-Leibler divergence
   between the posterior and prior. For so-called linear PAC-Bayes risk bounds based
   on the empirical risk of a fixed posterior kernel, it is possible to minimize the
   expected value of the bound by choosing the prior to be the expected posterior,
@@ -13,7 +13,7 @@ abstract: " The dominant term in PAC-Bayes bounds is often the Kullback-Leibler 
   we show that using data can mean the difference between vacuous and nonvacuous bounds.
   We apply this new principle in the setting of nonconvex learning, simulating data-dependent
   oracle priors on MNIST and Fashion MNIST with and without held-out data, and demonstrating
-  new nonvacuous bounds in both cases. "
+  new nonvacuous bounds in both cases."
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
