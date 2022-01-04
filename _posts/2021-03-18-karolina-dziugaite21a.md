@@ -20,7 +20,7 @@ publisher: PMLR
 issn: 2640-3498
 id: karolina-dziugaite21a
 month: 0
-tex_title: " On the role of data in PAC-Bayes bounds"
+tex_title: On the Role of Data in {PAC-Bayes} Bounds
 firstpage: 604
 lastpage: 612
 page: 604-612
