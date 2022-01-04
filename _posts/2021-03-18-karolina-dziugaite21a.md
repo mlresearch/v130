@@ -1,5 +1,5 @@
 ---
-title: " On the role of data in PAC-Bayes "
+title: " On the role of data in PAC-Bayes bounds"
 abstract: " The dominant term in PAC-Bayes bounds is often the Kullback-Leibler divergence
   between the posterior and prior. For so-called linear PAC-Bayes risk bounds based
   on the empirical risk of a fixed posterior kernel, it is possible to minimize the
@@ -20,7 +20,7 @@ publisher: PMLR
 issn: 2640-3498
 id: karolina-dziugaite21a
 month: 0
-tex_title: " On the role of data in PAC-Bayes "
+tex_title: " On the role of data in PAC-Bayes bounds"
 firstpage: 604
 lastpage: 612
 page: 604-612
