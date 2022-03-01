@@ -48,9 +48,9 @@ issued:
   - 2021
   - 3
   - 18
-pdf: http://proceedings.mlr.press/v130/sadegh-talebi21a/sadegh-talebi21a.pdf
+pdf: http://proceedings.mlr.press/v130/talebi21a/talebi21a.pdf
 extras:
 - label: Supplementary PDF
-  link: http://proceedings.mlr.press/v130/sadegh-talebi21a/sadegh-talebi21a-supp.pdf
+  link: http://proceedings.mlr.press/v130/talebi21a/talebi21a-supp.pdf
 # Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---
