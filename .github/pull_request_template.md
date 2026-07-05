@@ -31,5 +31,7 @@ Proceedings editor's GitHub username: @
 ## Description of Changes
 <!-- Please provide a detailed description of the changes you are proposing -->
 
+> **Note on BibTeX files**: `.bib` files are not tracked in this repository and are not part of the rendered output. If you are trying to correct paper metadata, please edit the relevant file in `_posts/` instead.
+
 ## Additional Notes
 <!-- Add any other relevant information here --> 
